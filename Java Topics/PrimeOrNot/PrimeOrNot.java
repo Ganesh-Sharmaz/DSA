@@ -1,3 +1,5 @@
+package PrimeOrNot;
+
 public class PrimeOrNot {
 
   public static void notOptimisedCheck(int n){
