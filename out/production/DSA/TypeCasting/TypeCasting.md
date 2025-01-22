@@ -18,7 +18,7 @@ Type casting in Java is a process of converting one data type into another. Ther
 
 ## Code Example with Detailed Comments
 ```java
-public class TypeCasting {
+public class TypeCasting.TypeCasting {
     public static void main(String[] args) {
         // Example of Explicit Type Casting
         int num = 257;
